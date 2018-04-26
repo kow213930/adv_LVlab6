@@ -1,0 +1,9 @@
+26.04.2018 17:32:43 Initializing PLC... 
+26.04.2018 17:32:43 UI initialized 
+26.04.2018 17:32:43 Model initilalized 
+26.04.2018 17:32:43 PLC initialization successful! 
+26.04.2018 17:32:58 Liquid level overflow! 
+26.04.2018 17:33:26 Closing PLC... 
+26.04.2018 17:33:26 Model closed 
+26.04.2018 17:33:26 PLC shutdown successful! 
+26.04.2018 17:33:26 Application quits 
