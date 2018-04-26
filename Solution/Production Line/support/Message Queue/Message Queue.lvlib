@@ -35,13 +35,13 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="support" Type="Folder">
-		<Item Name="Enqueue Message (Single).vi" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/Enqueue Message (Single).vi"/>
-		<Item Name="Enqueue Message (Array).vi" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/Enqueue Message (Array).vi"/>
-		<Item Name="All Message Queues.ctl" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/All Message Queues.ctl"/>
+		<Item Name="Enqueue Message (Single).vi" Type="VI" URL="../Enqueue Message (Single).vi"/>
+		<Item Name="Enqueue Message (Array).vi" Type="VI" URL="../Enqueue Message (Array).vi"/>
+		<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
 		<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
 	</Item>
-	<Item Name="Create All Message Queues.vi" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/Create All Message Queues.vi"/>
-	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/Obtain Message Queue.vi"/>
-	<Item Name="Enqueue Message.vi" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/Enqueue Message.vi"/>
+	<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
+	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
+	<Item Name="Enqueue Message.vi" Type="VI" URL="../Enqueue Message.vi"/>
 	<Item Name="Dequeue Message.vi" Type="VI" URL="../../../../../Exercise/Production Line/support/Message Queue/Dequeue Message.vi"/>
 </Library>
